@@ -1,0 +1,28 @@
+.button{
+  background: #0366a8;
+  border: 0.2rem solid #0366a8;
+  color: #fff;
+  font-weight: 500;
+  padding: 0.8rem 1.5rem;
+  cursor: pointer;
+}
+
+.disabled{
+  background: #ccc;
+  border: none;
+  pointer-events: none;
+}
+.danger{
+  background: #E52E3E;
+  border: none;
+}
+.outline{
+  background: transparent;
+  border: 0.05rem solid #0366a8;
+  border-radius: 5px;
+  font-weight: 700;
+  color: #0366a8;
+}
+.outline:hover{
+  background: #E5EFF6;
+}
