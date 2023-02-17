@@ -26,3 +26,20 @@
 .outline:hover{
   background: #E5EFF6;
 }
+.lg{
+  padding: 1rem 2rem;
+}
+.md{
+  padding: 0.6rem 1.2rem;
+}
+.sm{
+  padding: 0.4rem 1rem;
+}
+.downloadBtn{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.downloadLabel{
+  margin-left: 0.5rem;
+}
